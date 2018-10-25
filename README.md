@@ -1,1 +1,1 @@
-# Emotion Analysis
+# Emotions Analysis
